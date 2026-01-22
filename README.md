@@ -56,4 +56,4 @@ Software_Testing_Final_Project/
 
 ---
 
-💙 **Prepared by:** Roshni R H  
+**Prepared by:** Roshni R H  
