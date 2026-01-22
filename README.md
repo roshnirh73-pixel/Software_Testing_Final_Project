@@ -7,6 +7,17 @@ This project contains both **Manual and Automation testing artifacts** for a sam
 
 ## Project Structure
 
+Software_Testing_Final_Project/
+│
+├── Automation_Scripts/
+│ └── Test.java
+├── Screenshots/
+│ ├── Automation_exercise_Screenrecord.mp4
+│ └── Console_output.png
+├── TestCases.xlsx
+├── Test_Report.pdf
+├── Testplan.pdf
+└── README.md
 
 ---
 
